@@ -60,6 +60,6 @@ body {
 .card-description {
     font-family: 'Outfit', sans-serif;
     font-weight: 400;
-    font-size: 1.1rem;
+    font-size: 1rem;
     color: var(--card-desc-grayish-blue);
 }
