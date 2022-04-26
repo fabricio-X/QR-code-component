@@ -69,12 +69,3 @@ section {
     font-size: 1.1rem;
     color: var(--card-desc-grayish-blue);
 }
-
-.attribution {
-    font-family: 'Outfit', sans-serif;
-    font-size: .8rem;
-}
-
-.attribution a {
-    color: #3e52a3;
-}
