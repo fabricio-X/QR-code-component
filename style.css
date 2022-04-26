@@ -23,14 +23,11 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    height: 100vh;
     gap: 3rem;
     background-color: var(--body-bg-color);
     font-size: 15px;
     max-height: 100vh;
-}
-
-section {
-    margin-top: 3rem;
 }
 
 .card {
