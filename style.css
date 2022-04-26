@@ -35,14 +35,6 @@ section {
 }
 
 .card {
-    background-color: var(--card-bg-white);
-    width: 20rem;
-    height: 32rem;
-    border-radius: 1rem;
-    box-shadow: 0 0 30px 2px rgba(0, 0, 0, 0.3);
-}
-
-.card-content {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -52,6 +44,11 @@ section {
     text-align: center;
     padding: 1rem;
     padding-bottom: 2.6rem;
+    background-color: var(--card-bg-white);
+    width: 20rem;
+    height: 32rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 30px 2px rgba(0, 0, 0, 0.3);
 }
 
 .card-qr {
